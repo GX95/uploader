@@ -1,5 +1,3 @@
-
-```markdown
 # Python File Uploader
 
 Program ini adalah alat sederhana untuk mengunggah file ke layanan file.io melalui baris perintah.
