@@ -8,7 +8,7 @@ Program ini adalah alat sederhana untuk mengunggah file ke layanan file.io melal
 3. Buka terminal dan arahkan ke direktori program.
 4. Jalankan perintah berikut:
    ```bash
-   pip install -r requirements.txt
+   pip install requests
    python setup.py install
    ```
 
