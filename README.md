@@ -14,7 +14,7 @@ Program ini adalah alat sederhana untuk mengunggah file ke layanan file.io melal
 
 ## Penggunaan
 ```bash
-upload /path/to/file.txt --exp 1h
+upload /path/to/file.txt
 ```
 
 ### Argumen
